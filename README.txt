@@ -1,0 +1,1 @@
+The contents of this folder will be redirected to a remote session if storage redirection is enabled for a PC bookmark or published resource.

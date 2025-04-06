@@ -1,0 +1,48 @@
+{
+  "editAction": "ADD_PLACE_ACTION",
+  "placeUrl": "https://google.com/maps/?cid=0x88514b006f1eb78f:0x2bcee48766916ed4",
+  "nameChange": {
+    "operations": [
+      {
+        "type": "Set operation",
+        "text": {
+          "text": "Nigga",
+          "language": "en-US"
+        }
+      }
+    ]
+  },
+  "pointChange": {
+    "operations": [
+      {
+        "type": "Set operation",
+        "point": {
+          "latE7": 356150060,
+          "lngE7": -811470740
+        }
+      }
+    ]
+  },
+  "categoryChange": {
+    "operations": [
+      {
+        "type": "Set operation",
+        "category": "Housing society"
+      }
+    ]
+  },
+  "addressChange": {
+    "operations": [
+      {
+        "type": "Set operation",
+        "address": {
+          "text": "3190 Carmel Ridge Drive, Newton, NC",
+          "language": "en-US"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "createTime": "2025-03-05T02:41:59.399299262Z"
+  }
+}
